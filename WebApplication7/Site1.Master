@@ -57,11 +57,11 @@
                         </table>
   <asp:Panel ID="Panel3" runat="server" BackColor="#ffffff" ForeColor="Black" Height="50px" Width="1200px">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <asp:ImageButton ID="ImageButton7" runat="server" ImageUrl="~/קשר.png" OnClick="ImageButton1_Click1" Height="71px" Width="173px" />
-        <asp:ImageButton ID="ImageButton8" runat="server" ImageUrl="~/מכירות.png" OnClick="ImageButton2_Click" Height="71px" Width="171px" />
-        <asp:ImageButton ID="ImageButton9" runat="server" Height="71px" ImageUrl="~/סוגי.png" Width="193px" OnClick="ImageButton3_Click1" />
-        <asp:ImageButton ID="ImageButton10" runat="server" ImageUrl="~/מי אנחנו.png" OnClick="ImageButton4_Click" Height="71px" Width="165px" />
-        <asp:ImageButton ID="ImageButton11" runat="server" ImageUrl="~/ראשי.png" OnClick="ImageButton5_Click" Height="70px" Width="174px" />
+        <asp:ImageButton ID="ImageButton7" runat="server" ImageUrl="~/קשר.jpg" OnClick="ImageButton1_Click1" Height="71px" Width="173px" />
+        <asp:ImageButton ID="ImageButton8" runat="server" ImageUrl="~/מכירות.jpg" OnClick="ImageButton2_Click" Height="71px" Width="171px" />
+        <asp:ImageButton ID="ImageButton9" runat="server" Height="71px" ImageUrl="~/סוגי.jpg" Width="193px" OnClick="ImageButton3_Click1" />
+        <asp:ImageButton ID="ImageButton10" runat="server" ImageUrl="~/מי אנחנו.jpg" OnClick="ImageButton4_Click" Height="71px" Width="165px" />
+        <asp:ImageButton ID="ImageButton11" runat="server" ImageUrl="~/ראשי.jpg" OnClick="ImageButton5_Click" Height="70px" Width="174px" />
            </asp:Panel>
                                             <br />
                 
@@ -108,9 +108,9 @@
                       
                             </asp:Panel>
                                 <br />    <br />  
-                                <asp:ImageButton ID="ImageButton12" PostBackUrl="https://www.passportcard.co.il/" runat="server" ImageUrl="~/pa.png" Height="124px" Width="224px" />
+                                <asp:ImageButton ID="ImageButton12" PostBackUrl="https://www.passportcard.co.il/" runat="server" ImageUrl="~/pa.jpg" Height="124px" Width="224px" />
                                 <br />    <br />  
-                                            <asp:ImageButton ID="ImageButton13" runat="server" Height="73px" ImageUrl="~/גלובס.png" PostBackUrl="http://www.globes.co.il/" Width="229px" />
+                                            <asp:ImageButton ID="ImageButton13" runat="server" Height="73px" ImageUrl="~/גלובס.jpg" PostBackUrl="http://www.globes.co.il/" Width="229px" />
             <br /><br />
                             </td>
                             </tr>
